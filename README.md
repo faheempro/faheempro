@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Integration **
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Mule soft Development and integration  **
 
 - 📫 How to reach me **ra.faheem7@gmail.com**
 
