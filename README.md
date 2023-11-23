@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mule SOFT Integration **
 
-- 🤝 I’m looking for help with **MERN sack**
+- 🤝 I’m looking for help with **Integration **
 
 - 💬 Ask me about **Javascript**
 
