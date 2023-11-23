@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **wrape xcode**
+- 🔭 I’m currently working on **Fantech lab**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Mule SOFT Integration **
 
 - 🤝 I’m looking for help with **MERN sack**
 
