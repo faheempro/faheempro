@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm faheem</h1>
-<h3 align="center">A passionate Integration developer from pakistan</h3>
+<h3 align="center">A passionate SQA Enginner </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Fantech lab**
 
-- 🌱 I’m currently learning **Mule SOFT Integration **
-
-- 🤝 I’m looking for help with **Integration **
+- 🌱 I’m currently learning and working **Automation  **
+and **Mule Soft Integration **
+- 🤝 I’m looking for help with **Integration **and ** Automation **
 
 - 💬 Ask me about **Mule soft Development and integration  **
 
